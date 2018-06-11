@@ -33,6 +33,4 @@ From: centos
    ./buildme_dependencies
    ./buildme
 
-#%runscript
-#   /mpifileutils/bin/dcp
 
